@@ -85,7 +85,9 @@ GameObject:
   m_Component:
   - component: {fileID: 2405713072944509450}
   - component: {fileID: 2681284504503323818}
+  - component: {fileID: 6530239971760073219}
   - component: {fileID: 3963593610301077803}
+  - component: {fileID: 3576191597310936004}
   m_Layer: 5
   m_Name: Day
   m_TagString: Untagged
@@ -122,6 +124,25 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6708144464675305713}
   m_CullTransparentMesh: 1
+--- !u!114 &6530239971760073219
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6708144464675305713}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89ec772532766124eac85509ba084f3c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  DayImageBackground: {fileID: 3963593610301077803}
+  EventIndicatorImage: {fileID: 3003636650178145909}
+  DayText: {fileID: 8493670839969876576}
+  CurrentDayTextColor: {r: 0.9960785, g: 0.9960785, b: 0.9960785, a: 1}
+  CustomDayTextColor: {r: 0.26666668, g: 0.25882354, b: 0.2509804, a: 1}
+  DayImageCustomColor: {r: 0.41960785, g: 0.6784314, b: 0.87058824, a: 1}
+  DayImageCheckedColor: {r: 0.5947846, g: 0.69740045, b: 0.7735849, a: 1}
 --- !u!114 &3963593610301077803
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -152,6 +173,50 @@ MonoBehaviour:
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
+--- !u!114 &3576191597310936004
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6708144464675305713}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Navigation:
+    m_Mode: 3
+    m_WrapAround: 0
+    m_SelectOnUp: {fileID: 0}
+    m_SelectOnDown: {fileID: 0}
+    m_SelectOnLeft: {fileID: 0}
+    m_SelectOnRight: {fileID: 0}
+  m_Transition: 1
+  m_Colors:
+    m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
+    m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+    m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
+    m_SelectedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+    m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
+    m_ColorMultiplier: 1
+    m_FadeDuration: 0.1
+  m_SpriteState:
+    m_HighlightedSprite: {fileID: 0}
+    m_PressedSprite: {fileID: 0}
+    m_SelectedSprite: {fileID: 0}
+    m_DisabledSprite: {fileID: 0}
+  m_AnimationTriggers:
+    m_NormalTrigger: Normal
+    m_HighlightedTrigger: Highlighted
+    m_PressedTrigger: Pressed
+    m_SelectedTrigger: Selected
+    m_DisabledTrigger: Disabled
+  m_Interactable: 1
+  m_TargetGraphic: {fileID: 3963593610301077803}
+  m_OnClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &8326818813827175455
 GameObject:
   m_ObjectHideFlags: 0
