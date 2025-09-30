@@ -1,0 +1,1040 @@
+fileFormatVersion: 2
+guid: e329b980bc3770b4fa1bedc2f3c80f71
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5460518555080454513
+    second: Marzenka nowe logo_0
+  - first:
+      213: -7187079416106194881
+    second: Marzenka nowe logo_1
+  - first:
+      213: -593800523415031539
+    second: Marzenka nowe logo_2
+  - first:
+      213: 949694713234567329
+    second: Marzenka nowe logo_3
+  - first:
+      213: 3077580010049659975
+    second: Marzenka nowe logo_4
+  - first:
+      213: -4030097658026640497
+    second: Marzenka nowe logo_5
+  - first:
+      213: -8994777529891688314
+    second: Marzenka nowe logo_6
+  - first:
+      213: -7657890281769531245
+    second: Marzenka nowe logo_7
+  - first:
+      213: 2779827384331047477
+    second: Marzenka nowe logo_8
+  - first:
+      213: 1553082621231536949
+    second: Marzenka nowe logo_9
+  - first:
+      213: -6917013866546787680
+    second: Marzenka nowe logo_10
+  - first:
+      213: -3319907840717317791
+    second: Marzenka nowe logo_11
+  - first:
+      213: -82800687869721204
+    second: Marzenka nowe logo_12
+  - first:
+      213: 1787654368977889543
+    second: Marzenka nowe logo_13
+  - first:
+      213: 4506268520802698810
+    second: Marzenka nowe logo_14
+  - first:
+      213: -1064848425738362062
+    second: Marzenka nowe logo_15
+  - first:
+      213: 4957684945004647557
+    second: Marzenka nowe logo_16
+  - first:
+      213: -5867177235362936789
+    second: Marzenka nowe logo_17
+  - first:
+      213: -8730691866642218208
+    second: Marzenka nowe logo_18
+  - first:
+      213: -8627031025089868143
+    second: Marzenka nowe logo_19
+  - first:
+      213: 1396079635220600881
+    second: Marzenka nowe logo_20
+  - first:
+      213: -7601629630448374218
+    second: Marzenka nowe logo_21
+  - first:
+      213: 7799936764333604464
+    second: Marzenka nowe logo_22
+  - first:
+      213: -2096940701058798086
+    second: Marzenka nowe logo_23
+  - first:
+      213: -5413383736836195461
+    second: Marzenka nowe logo_24
+  - first:
+      213: 4174543950313990592
+    second: Marzenka nowe logo_25
+  - first:
+      213: 7943821353402111017
+    second: Marzenka nowe logo_26
+  - first:
+      213: -5247814282539359433
+    second: Marzenka nowe logo_27
+  - first:
+      213: 7408934229641602997
+    second: Marzenka nowe logo_28
+  - first:
+      213: -2136752312038452759
+    second: Marzenka nowe logo_29
+  - first:
+      213: 7775804217043019280
+    second: Marzenka nowe logo_30
+  - first:
+      213: -8114964863950382353
+    second: Marzenka nowe logo_31
+  - first:
+      213: 4612486405841668764
+    second: Marzenka nowe logo_32
+  - first:
+      213: -5405366706895501671
+    second: Marzenka nowe logo_33
+  - first:
+      213: 3924309821893644326
+    second: Marzenka nowe logo_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Marzenka nowe logo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1757
+        height: 1471
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 171fffcd1b8a7cb40800000000000000
+      internalID: 5460518555080454513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marzenka nowe logo_1
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1320
+        width: 45
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f38e77e895d524c90800000000000000
+      internalID: -7187079416106194881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marzenka nowe logo_2
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 1315
+        width: 43
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d01f76ee19562c7f0800000000000000
+      internalID: -593800523415031539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marzenka nowe logo_3
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 1336
+        width: 44
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a0b96b5f4efd2d00800000000000000
+      internalID: 949694713234567329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marzenka nowe logo_4
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 1373
+        width: 36
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7446ad2a6b2c5ba20800000000000000
+      internalID: 3077580010049659975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marzenka nowe logo_5
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 1361
+        width: 43
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b303b48873218c0800000000000000
+      internalID: -4030097658026640497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marzenka nowe logo_6
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 1377
+        width: 43
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 680f3213e712c2380800000000000000
+      internalID: -8994777529891688314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marzenka nowe logo_7
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1282
+        width: 42
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 398063aac55b9b590800000000000000
+      internalID: -7657890281769531245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marzenka nowe logo_8
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 1369
+        width: 44
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53294f3274ee39620800000000000000
+      internalID: 2779827384331047477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marzenka nowe logo_9
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 1296
+        width: 42
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53b96595a68ad8510800000000000000
+      internalID: 1553082621231536949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marzenka nowe logo_10
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 1350
+        width: 43
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aa070a4984d100a0800000000000000
+      internalID: -6917013866546787680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marzenka nowe logo_11
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 1347
+        width: 42
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 169920398615de1d0800000000000000
+      internalID: -3319907840717317791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marzenka nowe logo_12
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 1326
+        width: 45
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c850e5c8635d9def0800000000000000
+      internalID: -82800687869721204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marzenka nowe logo_13
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 1322
+        width: 36
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7092a1c5d260fc810800000000000000
+      internalID: 1787654368977889543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marzenka nowe logo_14
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 947
+        width: 92
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3648fc285b798e30800000000000000
+      internalID: 4506268520802698810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marzenka nowe logo_15
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 912
+        width: 80
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2332b34aff5e831f0800000000000000
+      internalID: -1064848425738362062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marzenka nowe logo_16
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 814
+        width: 68
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 584dd47c03c3dc440800000000000000
+      internalID: 4957684945004647557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marzenka nowe logo_17
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 878
+        width: 81
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b280febd369939ea0800000000000000
+      internalID: -5867177235362936789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marzenka nowe logo_18
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 869
+        width: 90
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0230665210a56d680800000000000000
+      internalID: -8730691866642218208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marzenka nowe logo_19
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 789
+        width: 92
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e8e3b9df0a64880800000000000000
+      internalID: -8627031025089868143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marzenka nowe logo_20
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 789
+        width: 79
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1381b7f080fdf5310800000000000000
+      internalID: 1396079635220600881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marzenka nowe logo_21
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 765
+        width: 95
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63e6a035026918690800000000000000
+      internalID: -7601629630448374218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marzenka nowe logo_22
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 729
+        width: 96
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07e3d9c4921fe3c60800000000000000
+      internalID: 7799936764333604464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marzenka nowe logo_23
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 749
+        width: 83
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afde45eda8b26e2e0800000000000000
+      internalID: -2096940701058798086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marzenka nowe logo_24
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 731
+        width: 79
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b70053c2ccfd4b0800000000000000
+      internalID: -5413383736836195461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marzenka nowe logo_25
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 709
+        width: 94
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c9a8b9ea95fee930800000000000000
+      internalID: 4174543950313990592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marzenka nowe logo_26
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 674
+        width: 93
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92412b8ce6f1e3e60800000000000000
+      internalID: 7943821353402111017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marzenka nowe logo_27
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 637
+        width: 84
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7332502d6b40c27b0800000000000000
+      internalID: -5247814282539359433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marzenka nowe logo_28
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 662
+        width: 95
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b7250a7d62d1d660800000000000000
+      internalID: 7408934229641602997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marzenka nowe logo_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 620
+        width: 89
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e114fbd71bb852e0800000000000000
+      internalID: -2136752312038452759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marzenka nowe logo_30
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 579
+        width: 92
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01665d7ccb439eb60800000000000000
+      internalID: 7775804217043019280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marzenka nowe logo_31
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 622
+        width: 96
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea167f737ad16f80800000000000000
+      internalID: -8114964863950382353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marzenka nowe logo_32
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 590
+        width: 89
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ac287b2f7d20040800000000000000
+      internalID: 4612486405841668764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marzenka nowe logo_33
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 521
+        width: 67
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99645c27e974cf4b0800000000000000
+      internalID: -5405366706895501671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marzenka nowe logo_34
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 555
+        width: 88
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6201c8abdf2f57630800000000000000
+      internalID: 3924309821893644326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3f632c2e507caab4bab75871b7169cff
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Marzenka nowe logo_0: 5460518555080454513
+      Marzenka nowe logo_1: -7187079416106194881
+      Marzenka nowe logo_10: -6917013866546787680
+      Marzenka nowe logo_11: -3319907840717317791
+      Marzenka nowe logo_12: -82800687869721204
+      Marzenka nowe logo_13: 1787654368977889543
+      Marzenka nowe logo_14: 4506268520802698810
+      Marzenka nowe logo_15: -1064848425738362062
+      Marzenka nowe logo_16: 4957684945004647557
+      Marzenka nowe logo_17: -5867177235362936789
+      Marzenka nowe logo_18: -8730691866642218208
+      Marzenka nowe logo_19: -8627031025089868143
+      Marzenka nowe logo_2: -593800523415031539
+      Marzenka nowe logo_20: 1396079635220600881
+      Marzenka nowe logo_21: -7601629630448374218
+      Marzenka nowe logo_22: 7799936764333604464
+      Marzenka nowe logo_23: -2096940701058798086
+      Marzenka nowe logo_24: -5413383736836195461
+      Marzenka nowe logo_25: 4174543950313990592
+      Marzenka nowe logo_26: 7943821353402111017
+      Marzenka nowe logo_27: -5247814282539359433
+      Marzenka nowe logo_28: 7408934229641602997
+      Marzenka nowe logo_29: -2136752312038452759
+      Marzenka nowe logo_3: 949694713234567329
+      Marzenka nowe logo_30: 7775804217043019280
+      Marzenka nowe logo_31: -8114964863950382353
+      Marzenka nowe logo_32: 4612486405841668764
+      Marzenka nowe logo_33: -5405366706895501671
+      Marzenka nowe logo_34: 3924309821893644326
+      Marzenka nowe logo_4: 3077580010049659975
+      Marzenka nowe logo_5: -4030097658026640497
+      Marzenka nowe logo_6: -8994777529891688314
+      Marzenka nowe logo_7: -7657890281769531245
+      Marzenka nowe logo_8: 2779827384331047477
+      Marzenka nowe logo_9: 1553082621231536949
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
