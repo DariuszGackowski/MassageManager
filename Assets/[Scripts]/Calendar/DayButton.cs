@@ -18,8 +18,9 @@ namespace MassageApp.Calendar
         public void Initialize(int dayNumber, bool isCurrentDay)
         {
             _day = dayNumber;
-            DayText.SetText(dayNumber.ToString());
 
+            DayText.SetText(dayNumber.ToString());
+            DayText.enabled = true;
             DayText.color = CustomDayTextColor;
             DayImageBackground.enabled = false;
             EventIndicatorImage.enabled = false;
@@ -28,6 +29,12 @@ namespace MassageApp.Calendar
             {
                 SetAsCurrentDay();
             }
+        }
+        public void Disable()
+        {
+            DayImageBackground.enabled = false;
+            EventIndicatorImage.enabled = false;
+            DayText.enabled = false;
         }
         public void SetAsCurrentDay()
         {

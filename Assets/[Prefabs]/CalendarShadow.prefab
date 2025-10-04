@@ -76,6 +76,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2409efd7aa1bc8941a931e2aea12bcab, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  DatabaseManager: {fileID: 0}
   DayButtons:
   - {fileID: 3830440597335563624}
   - {fileID: 8806305843992182680}

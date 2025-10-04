@@ -10,6 +10,6 @@ namespace MassageApp.Core
         [MaxLength(100)]
         public string DiscountName { get; set; }
 
-        public float Percentage { get; set; }
+        public int Value { get; set; }
     }
 }
